@@ -2,7 +2,7 @@
 """Конвертер изображений в ICO / PNG.
 
 Обрезка, скругление углов, обводка, предпросмотр, прозрачность.
-Зависимости: pip install PySide6 Pillow
+Зависимости:  pip install PySide6 Pillow
 """
 from __future__ import annotations
 
